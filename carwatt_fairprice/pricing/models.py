@@ -1,0 +1,1 @@
+# This file will define models for VehicleInput, MarketListing, and FairPriceResponse.
